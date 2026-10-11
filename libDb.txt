@@ -1,0 +1,50 @@
+1,The Hobbit,J. R. R. Tolkien,Fiction,Available
+2,Harry Potter and the Philosopher's Stone,J. K. Rowling,Fiction,Available
+3,To Kill a Mockingbird,Harper Lee,Fiction,Issued
+4,The Alchemist,Paulo Coelho,Fiction,Available
+5,The Great Gatsby,F. Scott Fitzgerald,Fiction,Available
+6,Sapiens,Yuval Noah Harari,Non-Fiction,Available
+7,Thinking Fast and Slow,Daniel Kahneman,Non-Fiction,Available
+8,Educated,Tara Westover,Biography,Available
+9,The Diary of a Young Girl,Anne Frank,Biography,Available
+10,Atomic Habits,James Clear,Self-Help,Issued
+11,Python Crash Course,Eric Matthes,Programming,Available
+12,Automate the Boring Stuff with Python,Al Sweigart,Programming,Issued
+13,Clean Code,Robert C. Martin,Programming,Available
+14,The Pragmatic Programmer,Andrew Hunt and David Thomas,Programming,Available
+15,Fluent Python,Luciano Ramalho,Programming,Available
+16,A Brief History of Time,Stephen Hawking,Science,Available
+17,Cosmos,Carl Sagan,Science,Issued
+18,The Gene,Siddhartha Mukherjee,Science,Available
+19,The Selfish Gene,Richard Dawkins,Science,Available
+20,The Elegant Universe,Brian Greene,Science,Available
+21,Calculus,Michael Spivak,Mathematics,Available
+22,How to Solve It,George Polya,Mathematics,Available
+23,Higher Engineering Mathematics,B. S. Grewal,Mathematics,Available
+24,Introduction to Algorithms,Cormen; Leiserson; Rivest; Stein,Mathematics,Issued
+25,The Princeton Companion to Mathematics,Timothy Gowers,Mathematics,Available
+26,Guns Germs and Steel,Jared Diamond,History,Available
+27,The Silk Roads,Peter Frankopan,History,Available
+28,India After Gandhi,Ramachandra Guha,History,Issued
+29,The Discovery of India,Jawaharlal Nehru,History,Available
+30,The Second World War,Antony Beevor,History,Available
+31,Wings of Fire,A. P. J. Abdul Kalam,Biography,Available
+32,Long Walk to Freedom,Nelson Mandela,Biography,Available
+33,Steve Jobs,Walter Isaacson,Biography,Issued
+34,Becoming,Michelle Obama,Biography,Available
+35,Einstein: His Life and Universe,Walter Isaacson,Biography,Available
+36,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help,Available
+37,Deep Work,Cal Newport,Self-Help,Available
+38,The Power of Habit,Charles Duhigg,Self-Help,Issued
+39,Mindset,Carol S. Dweck,Self-Help,Available
+40,The Subtle Art of Not Giving a F*ck,Mark Manson,Self-Help,Available
+41,Charlotte's Web,E. B. White,Children,Available
+42,Matilda,Roald Dahl,Children,Available
+43,The Very Hungry Caterpillar,Eric Carle,Children,Issued
+44,Charlie and the Chocolate Factory,Roald Dahl,Children,Available
+45,The Little Prince,Antoine de Saint-Exupéry,Children,Available
+46,Concepts of Physics Vol. 1,H. C. Verma,Competitive Exams,Available
+47,Concepts of Physics Vol. 2,H. C. Verma,Competitive Exams,Available
+48,R. D. Sharma Mathematics,R. D. Sharma,Competitive Exams,Available
+49,NCERT Physics Class XII,NCERT,Competitive Exams,Issued
+50,Arihant JEE Main Guide,Arihant Experts,Competitive Exams,Available
